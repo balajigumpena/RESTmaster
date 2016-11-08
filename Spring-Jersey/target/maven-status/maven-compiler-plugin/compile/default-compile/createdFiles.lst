@@ -1,0 +1,12 @@
+com\myorg\Utils.class
+com\myorg\config\JerseyConfig.class
+com\myorg\filter\RequestFilter.class
+com\myorg\service\AdminService.class
+com\myorg\filter\ResponseFilter.class
+com\myorg\service\DBService.class
+com\myorg\SecurityWebApplicationInitializer.class
+com\myorg\service\ReverseEndpoint.class
+com\myorg\service\Endpoint.class
+com\myorg\Application.class
+com\myorg\config\WebSecurityConfig.class
+com\myorg\model\Service.class
